@@ -31,9 +31,9 @@ The goal is to enable data-driven decisions for optimizing inventory, improving 
 ## Chart's Requirements
 
 1. Total Sales by Fat Content :
-   Objective : Analyze the impact of fat content on total sales.
-   Additional KPI Metrics : Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-   Chart Type : Donut Chart.
+  - Objective : Analyze the impact of fat content on total sales.
+  - Additional KPI Metrics : Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+  - Chart Type : Donut Chart.
    
 2. Total Sales by Items Type :
    Objective : Identify the performance of different item typs in terms of total sales.
