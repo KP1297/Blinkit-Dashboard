@@ -62,10 +62,16 @@ The goal is to enable data-driven decisions for optimizing inventory, improving 
  -  Chart Type : Matrix Card.
 
   ## Dataset Used
-  - <a href="https://github.com/KP1297/Power-Bi-Projects/blob/main/Global%20YouTube%20Statistics.csv">Youtube Analysis Dataset</a>
+  - <a href="https://github.com/KP1297/Blinkit-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx">Blinkit Analysis Dataset</a>
 
   ## Dashboard Links
+  - <a href="https://github.com/KP1297/Blinkit-Dashboard/blob/main/blinkit.pbix">Blinkit Dashboard </a>
 
+  ## Dashboard Image
+  - <a href="https://github.com/KP1297/Blinkit-Dashboard/blob/main/BlinkIT.png">Blinkit Dashboard </a>
+
+
+ 
 
    
 
