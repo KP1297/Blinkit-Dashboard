@@ -68,8 +68,8 @@ The goal is to enable data-driven decisions for optimizing inventory, improving 
   - <a href="https://github.com/KP1297/Blinkit-Dashboard/blob/main/blinkit.pbix">Blinkit Dashboard </a>
 
   ## Dashboard Image
-  
-  [(Screen 495)](https://github.com/KP1297/Blinkit-Dashboard/blob/main/BlinkIT.png)
+  ![BlinkIT](https://github.com/user-attachments/assets/a6e082e1-de8d-45c7-a214-263953b85555)
+
 
 
  
