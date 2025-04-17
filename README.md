@@ -27,7 +27,7 @@ The goal is to enable data-driven decisions for optimizing inventory, improving 
 3. Number of Items : The total count of different items sold.
 4. Average Rating : The average customer rating for items sold.
 
-### BUSINESS REQUIREMENT
+## BUSINESS REQUIREMENT
 ## Chart's Requirements
 
 1. Total Sales by Fat Content :
@@ -36,30 +36,30 @@ The goal is to enable data-driven decisions for optimizing inventory, improving 
   - Chart Type : Donut Chart.
    
 2. Total Sales by Items Type :
-   Objective : Identify the performance of different item typs in terms of total sales.
-   Additional KPI Metrics : Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-   Chart Type : Bar Chart.
+ -  Objective : Identify the performance of different item typs in terms of total sales.
+ -  Additional KPI Metrics : Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+ -  Chart Type : Bar Chart.
 
-3. Fat Content by Outlet for Total Sales :
-   Objective : Compare total sales across differet outlet segmented by fat content.
-   Additional KPI Metrics : Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-   Chart Type : Stacked Chart.
+4. Fat Content by Outlet for Total Sales :
+ -  Objective : Compare total sales across differet outlet segmented by fat content.
+ -  Additional KPI Metrics : Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+ -  Chart Type : Stacked Chart.
 
-4. Total Sales by Outlet Establishment :
-   Objective : Evaluate how the age or type of outlet establishment influences total sales.
-   Chart Type : Line Chart.
+5. Total Sales by Outlet Establishment :
+ -  Objective : Evaluate how the age or type of outlet establishment influences total sales.
+ -  Chart Type : Line Chart.
    
-5. Sales by Outlet Size :
-   Objective : Analyze the correlation between outlet size and total sales.
-   Chart Type : Donut/ Pie Chart.
+6. Sales by Outlet Size :
+ -  Objective : Analyze the correlation between outlet size and total sales.
+ -  Chart Type : Donut/ Pie Chart.
 
-6. Sales by Outlet Location :
-   Objective : Assess the geographic distribution ofsales across different locations.
-   Chart Type : Funnel Map
+7. Sales by Outlet Location :
+ -  Objective : Assess the geographic distribution ofsales across different locations.
+ -  Chart Type : Funnel Map
 
-7. All Metrics by Outlet Type :
-   Objective : Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of items, Average Rating) broken down by different outlet types.
-   Chart Type : Matrix Card.
+8. All Metrics by Outlet Type :
+ -  Objective : Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of items, Average Rating) broken down by different outlet types.
+ -  Chart Type : Matrix Card.
 
   ## Dataset Used
   - <a href="https://github.com/KP1297/Power-Bi-Projects/blob/main/Global%20YouTube%20Statistics.csv">Youtube Analysis Dataset</a>
